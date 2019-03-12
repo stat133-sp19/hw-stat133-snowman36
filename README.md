@@ -2,11 +2,11 @@
 
 Private Repository for HW assignments of Stat 133 (Spring 2019)
 
-- Name: Your name (first last)
-- Github username: usrname
-- Email: address [at] email.com
+- Name: Rui Shi
+- Github username: snowman36
+- Email: shi_rui@berkeley.edu
 - Lab section: 101
-- GSI: Leia Organa
+- GSI: Colin Kou
 
 -----
 
