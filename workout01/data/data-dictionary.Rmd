@@ -1,0 +1,22 @@
+---
+title: "Untitled"
+author: "Rui Shi"
+date: "2019Äê3ÔÂ9ÈÕ"
+output: github_document
+---
+
+|Field Name|Discription|
+|----------|-----------|
+|team_name|name of the team|
+|game_data|data of the game|
+|season|the year of the game season|
+|period|the quater of the game|
+|mintues_remaining|mintues remained to be played in a given period|
+|seconds_remaining|seconds remained to be played in a given period|
+|shot_made_flag|whether a shot was made (y) or missed (n)|
+|action_type|basketball moves used by players|
+|shot_type| whether a shot is a 2-point field goal, or a 3-point field goal|
+|shot_distance|distance to the basket (measured in feet)|
+|x| the court coordinates (measured in inches) where a shot occurred|
+|y| the court coordinates (measured in inches) where a shot occurred|
+

@@ -1,0 +1,12 @@
+
+> two_pt_effective_player
+# A tibble: 5 x 4
+  player   total  made perc_made
+  <chr>    <int> <int>     <dbl>
+1 iguodala   210   134     0.638
+2 durant     643   390     0.607
+3 curry      563   304     0.540
+4 thompson   640   329     0.514
+5 green      346   171     0.494
+
+> sink()

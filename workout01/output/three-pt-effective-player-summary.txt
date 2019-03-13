@@ -1,0 +1,12 @@
+
+> three_pt_effective_player
+# A tibble: 5 x 4
+  player   total  made perc_made
+  <chr>    <int> <int>     <dbl>
+1 thompson   580   246     0.424
+2 curry      687   280     0.408
+3 durant     272   105     0.386
+4 iguodala   161    58     0.360
+5 green      232    74     0.319
+
+> sink()
