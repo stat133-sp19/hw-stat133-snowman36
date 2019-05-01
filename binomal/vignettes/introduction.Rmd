@@ -1,0 +1,14 @@
+---
+title: "Indroduction to binomial packages"
+author: "Rui Shi"
+date: "2019年4月30日"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Introduction to binomial}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+```{r}
+library(binomal)
+```
+
